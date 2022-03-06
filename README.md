@@ -1,7 +1,7 @@
 <h1 align="center">👨💻Sup, didn't expect you here.👨💻</h1>
 
 <h3 aling="center">💡 '02 Boi - Made in Greece.</h3>
-🧠 I’m currently Upgrading my Coding Skills.
+<h3 align="center">🧠 I’m currently Upgrading my Coding Skills.</h3>
 <br>
 
 <h3 aling="center">Connect with me:</h3>
