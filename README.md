@@ -2,7 +2,7 @@
 
 <h2 align="center">💡 '02 Boi - Made in Greece.</h2>
 <h4 align="center">🧠 I’m currently Upgrading my Coding Skills.</h4>
-<h4 align="center"></h4>
+<h4 align="center">👨‍💻 Privacy & Coding Addict</h4>
 <br>
 
 <h2 align="center">Connect with me:</h2>
