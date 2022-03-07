@@ -1,6 +1,6 @@
 <h1 align="center">👨💻Sup, didn't expect you here.👨💻</h1>
 
-<h2 align="center">💡 '02 Boi - Made in Greece.</h2>
+<h2 align="center">💡 Made in Greece, 2002. 💡</h2>
 <h4 align="center">🧠 I’m currently working on upgrading the Skills I already have.</h4>
 <h4 align="center">👨‍💻 Privacy & Coding Addict</h4>
 <br>
